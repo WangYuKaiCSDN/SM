@@ -7,5 +7,6 @@ package com.Test;
 public class Test01 {
     public static void main(String[] args) {
         System.out.println("张婉玉是傻逼");
+        System.out.println("张婉玉是大傻逼啊");
     }
 }
